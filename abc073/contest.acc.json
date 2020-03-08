@@ -19,7 +19,11 @@
       "id": "abc073_b",
       "label": "B",
       "title": "Theater",
-      "url": "https://atcoder.jp/contests/abc073/tasks/abc073_b"
+      "url": "https://atcoder.jp/contests/abc073/tasks/abc073_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc073_c",
