@@ -19,7 +19,11 @@
       "id": "abc069_b",
       "label": "B",
       "title": "i18n",
-      "url": "https://atcoder.jp/contests/abc069/tasks/abc069_b"
+      "url": "https://atcoder.jp/contests/abc069/tasks/abc069_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
     },
     {
       "id": "arc080_a",
