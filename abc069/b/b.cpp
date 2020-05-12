@@ -5,9 +5,8 @@ int main() {
   string s;
   cin >> s;
 
-  int lastIndex = s.length() - 1;
-  string replacementChar = std::to_string(s.length() - 2);
-  string ans = s.replace(1, lastIndex - 1, replacementChar);
+  int length = s.length();
+  string ans = s[0] + std::to_string(length - 2) + s[length - 1];
 
   cout << ans << endl;
 }
