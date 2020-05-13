@@ -29,7 +29,11 @@
       "id": "arc080_a",
       "label": "C",
       "title": "4-adjacent",
-      "url": "https://atcoder.jp/contests/abc069/tasks/arc080_a"
+      "url": "https://atcoder.jp/contests/abc069/tasks/arc080_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "arc080_b",
