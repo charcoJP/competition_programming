@@ -29,7 +29,11 @@
       "id": "abc070_c",
       "label": "C",
       "title": "Multiple Clocks",
-      "url": "https://atcoder.jp/contests/abc070/tasks/abc070_c"
+      "url": "https://atcoder.jp/contests/abc070/tasks/abc070_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc070_d",
