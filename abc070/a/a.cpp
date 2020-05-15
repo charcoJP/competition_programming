@@ -4,13 +4,10 @@ using namespace std;
 int main() {
   string N;
   cin >> N;
-
-  string reverseN(N);
-  cout << reverseN << endl;
   
+  // コピーコンストラクタ
+  string reverseN(N);
   reverse(reverseN.begin(), reverseN.end());
-
-  cout << reverseN << endl;
 
   cout << (N == reverseN ? "Yes" : "No") << endl;
 }
