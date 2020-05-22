@@ -9,7 +9,11 @@
       "id": "abc030_a",
       "label": "A",
       "title": "勝率計算",
-      "url": "https://atcoder.jp/contests/abc030/tasks/abc030_a"
+      "url": "https://atcoder.jp/contests/abc030/tasks/abc030_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc030_b",
