@@ -29,7 +29,11 @@
       "id": "abc030_c",
       "label": "C",
       "title": "飛行機乗り",
-      "url": "https://atcoder.jp/contests/abc030/tasks/abc030_c"
+      "url": "https://atcoder.jp/contests/abc030/tasks/abc030_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc030_d",
