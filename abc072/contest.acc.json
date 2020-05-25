@@ -29,7 +29,11 @@
       "id": "arc082_a",
       "label": "C",
       "title": "Together",
-      "url": "https://atcoder.jp/contests/abc072/tasks/arc082_a"
+      "url": "https://atcoder.jp/contests/abc072/tasks/arc082_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "arc082_b",
