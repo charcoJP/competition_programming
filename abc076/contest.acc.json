@@ -19,7 +19,11 @@
       "id": "abc076_b",
       "label": "B",
       "title": "Addition and Multiplication",
-      "url": "https://atcoder.jp/contests/abc076/tasks/abc076_b"
+      "url": "https://atcoder.jp/contests/abc076/tasks/abc076_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc076_c",
