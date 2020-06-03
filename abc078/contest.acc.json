@@ -19,7 +19,11 @@
       "id": "abc078_b",
       "label": "B",
       "title": "ISU",
-      "url": "https://atcoder.jp/contests/abc078/tasks/abc078_b"
+      "url": "https://atcoder.jp/contests/abc078/tasks/abc078_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
     },
     {
       "id": "arc085_a",
