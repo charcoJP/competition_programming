@@ -29,7 +29,11 @@
       "id": "abc084_c",
       "label": "C",
       "title": "Special Trains",
-      "url": "https://atcoder.jp/contests/abc084/tasks/abc084_c"
+      "url": "https://atcoder.jp/contests/abc084/tasks/abc084_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc084_d",
