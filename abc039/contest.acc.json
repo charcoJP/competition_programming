@@ -29,7 +29,11 @@
       "id": "abc039_c",
       "label": "C",
       "title": "ピアニスト高橋君",
-      "url": "https://atcoder.jp/contests/abc039/tasks/abc039_c"
+      "url": "https://atcoder.jp/contests/abc039/tasks/abc039_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc039_d",
