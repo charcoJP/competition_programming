@@ -31,7 +31,12 @@
       "id": "arc084_a",
       "label": "C",
       "title": "Snuke Festival",
-      "url": "https://atcoder.jp/contests/abc077/tasks/arc084_a"
+      "url": "https://atcoder.jp/contests/abc077/tasks/arc084_a",
+      "directory": {
+        "path": "c",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "arc084_b",
