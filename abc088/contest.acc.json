@@ -9,7 +9,12 @@
       "id": "abc088_a",
       "label": "A",
       "title": "Infinite Coins",
-      "url": "https://atcoder.jp/contests/abc088/tasks/abc088_a"
+      "url": "https://atcoder.jp/contests/abc088/tasks/abc088_a",
+      "directory": {
+        "path": "a",
+        "testdir": "test",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "abc088_b",
