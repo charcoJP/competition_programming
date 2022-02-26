@@ -3,9 +3,7 @@
         {
             "name": "Mac",
             "includePath": [
-                "${workspaceFolder}/**",
-                "/usr/local/Cellar/boost@1.60/1.60.0/include/",
-                "/usr/local/Cellar/boost@1.60/1.60.0/lib/"
+                "${workspaceFolder}/**"
             ],
             "defines": [],
             "macFrameworkPath": [],
